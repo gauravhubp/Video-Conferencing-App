@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/video-conferencing/static/css/main.c2cab247.css",
-    "main.js": "/video-conferencing/static/js/main.ca5c8802.js",
-    "static/media/v.mp4": "/video-conferencing/static/media/v.d6887f87518870aab229.mp4",
-    "static/media/meet.png": "/video-conferencing/static/media/meet.6a13c275e3ac73cfa528.png",
-    "static/media/p2.png": "/video-conferencing/static/media/p2.e0c40072c1399fef798f.png",
-    "static/media/p1.png": "/video-conferencing/static/media/p1.56607847550a593f81c4.png",
-    "static/media/p4.png": "/video-conferencing/static/media/p4.e25e565dae4262de0506.png",
-    "static/media/p3.png": "/video-conferencing/static/media/p3.a4feb342703c448e1e6e.png",
-    "index.html": "/video-conferencing/index.html",
-    "main.c2cab247.css.map": "/video-conferencing/static/css/main.c2cab247.css.map",
-    "main.ca5c8802.js.map": "/video-conferencing/static/js/main.ca5c8802.js.map"
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.9d30d262.js",
+    "static/media/v.mp4": "/static/media/v.d6887f87518870aab229.mp4",
+    "static/media/meet.png": "/static/media/meet.6a13c275e3ac73cfa528.png",
+    "static/media/p2.png": "/static/media/p2.e0c40072c1399fef798f.png",
+    "static/media/p1.png": "/static/media/p1.56607847550a593f81c4.png",
+    "static/media/p4.png": "/static/media/p4.e25e565dae4262de0506.png",
+    "static/media/p3.png": "/static/media/p3.a4feb342703c448e1e6e.png",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.9d30d262.js.map": "/static/js/main.9d30d262.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.ca5c8802.js"
+    "static/js/main.9d30d262.js"
   ]
 }
